@@ -153,6 +153,7 @@ export default {
   padding 1rem
   border-radius 20px
   color white
+  box-shadow 0 0 20px gray, 0 0 22px gray, 0 0 5px gray 
 
 
 .search-btn
